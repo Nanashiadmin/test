@@ -1,0 +1,44 @@
+# Perry Vinson
+# Nobody knows about gosha...
+
+print("PPPP, v")
+print("P   P") 
+print("P   p")
+print("pppp")  
+print("p")    
+print("p")     
+print("p")
+
+name = """
+
+PPPP    V   V
+P   P   V   V
+P   P   V   V
+pppp    V   V
+p       V   V
+p        V V
+p         V
+        
+"""     
+
+
+name_second = """
+V   V
+V   V
+V   V
+V   V
+V   V
+ V V
+  V
+"""
+
+#Remember, you cannot print multiple lines of "print" on the same line (This is very important)
+
+#In this example, name second does not need to exist 
+
+print(name)
+
+
+
+
+
